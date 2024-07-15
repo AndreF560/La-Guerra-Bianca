@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La Guerra Bianca</title>
+                <author>Andrea Fava</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Unibo</publisher>
+                <date when="2024-07-02"/>
+                <availability>
+                    <p>This work is licensed under CC BY-NC 4.0</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Collezione di item inerenti al fronte alpino della Prima Guerra Mondiale</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="it">Italiano</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Italia</term>
+                    <term>Trentino-Alto Adige</term>
+                    <term>Veneto</term>
+                    <term>Prima Guerra Mondiale</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>La Guerra Bianca</head>
+                <p>
+                    <list>
+                        <item><label>DC.Title:</label> <value>La Guerra Bianca</value></item>
+                        <item><label>DC.Creator:</label> <value>Andrea Fava</value></item>
+                        <item><label>DC.Description:</label> <value>Collezione di item inerenti al fronte alpino della Prima Guerra Mondiale</value></item>
+                        <item><label>DC.Publisher:</label> <value>Unibo</value></item>
+                        <item><label>DC.Date:</label> <value>02/07/2024</value></item>
+                        <item><label>DC.Type:</label> <value>sito web</value></item>
+                        <item><label>DC.Format:</label> <value>HTML/CSS/JS</value></item>
+                        <item><label>DC.Identifier:</label> <value>https.nomedelsitoweb.github.io</value></item>
+                        <item><label>DC.Source:</label> <value>inserisci risorse usate</value></item>
+                        <item><label>DC.Language:</label> <value>It</value></item>
+                        <item><label>DC.Relation:</label> <value>inserisci vari archivi</value></item>
+                        <item><label>DC.Coverage:</label> <value>Italia, Trentino-Alto Adige, Veneto, Prima Guerra Mondiale</value></item>
+                        <item><label>DC.Rights:</label> <value>This work is licensed under CC BY-NC 4.0</value></item>
+                    </list>
+                </p>
+                <div type="header">
+                    <div>La Guerra Bianca</div>
+                    <nav>
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="we_do.html">Introduzione</a></li>
+                            <li><a href="lista.html">Lista</a></li>
+                            <li><a href="#">Mappa</a></li>
+                            <li><a href="#">Linea del tempo</a></li>
+                            <li><a href="#">Veneto</a></li>
+                            <li><a href="#">Trentino</a></li>
+                            <li><a href="#">Alto Adige</a></li>
+                            <li><a href="#">Armi</a></li>
+                            <li><a href="#">Uniformi</a></li>
+                            <li><a href="#">Fotografie</a></li>
+                            <li><a href="#">Testimonianze</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <div type="content">
+                    <div type="aside">
+                        <div class="share">
+                            <button>Scarica Immagini</button>
+                            <button>Scarica XML/TEI</button>
+                            <button>Scarica XML/DC</button>
+                        </div>
+                    </div>
+                    <div>
+                        <head>Uniforme da Tenente d'Artiglieria austroungarico</head>
+                        <figure>
+                            <graphic url="images/DivisaAu1.jpg" height="500" width="750"/>
+                        </figure>
+                        <list>
+                            <item><label>Anno di Costruzione:</label> <value>1916</value></item>
+                            <item><label>Paese di Origine:</label> <value>Austria-Ungheria</value></item>
+                            <item><label>Materiale:</label> <value>Panno di lana con colletto in velluto di seta</value></item>
+                            <item><label>Descrizione:</label> <value>Uniforme appartenuta a Siegfried Kolisch, arruolato con la batteria n. 21, stanziata a Penia (Canazei), che aveva in dotazione il mortaio Skoda-Mörser da 30.5 cm. Presenta un Kepì rigido per ufficiali, modificato con stella alpina al posto del bottoncino regolamentare.</value></item>
+                            <item><label>Accessori:</label> <value>Binocolo Goertz mod. 1908 e borsa porta documenti</value></item>
+                            <item><label>Tipo di risorsa:</label> <value>Uniforme</value></item>
+                            <item><label>Luogo di conservazione:</label> <value>Museo La Gran Vera, Moena, Trentino</value></item>
+                        </list>
+                    </div>
+                </div>
+                <div type="footer">
+                    <div>La Guerra Bianca</div>
+                    <nav>
+                        <ul>
+                            <li><a href="#">Crediti</a></li>
+                            <li><a href="#">Licenze</a></li>
+                            <li><a href="#">Bibliografia</a></li>
+                            <li><a href="#">Specifiche tecniche</a></li>
+                            <li><a href="#">Applicazione web</a></li>
+                            <li><a href="#">Download dataset</a></li>
+                            <li><a href="https://grandeguerra.cultura.gov.it/progetti/">Ministero della cultura</a></li>
+                            <li><a href="https://www.catalogo.beniculturali.it/">Catalogo Beni Culturali</a></li>
+                            <li><a href="#">Museo 3</a></li>
+                            <li><a href="#">Museo 4</a></li>
+                        </ul>
+                    </nav>
+                    <div>Socials</div>
+                    <list>
+                        <item><label>Facebook</label> <value><ref target="#">Facebook</ref></value></item>
+                        <item><label>Tripadvisor</label> <value><ref target="#">Tripadvisor</ref></value></item>
+                        <item><label>Instagram</label> <value><ref target="#">Instagram</ref></value></item>
+                        <item><label>YouTube</label> <value><ref target="#">YouTube</ref></value></item>
+                    </list>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
